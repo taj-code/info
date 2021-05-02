@@ -5,3 +5,12 @@ $(document).ready(function() {
     $("#output").show();
   });
 });
+$(document).ready(function() {
+  const over18 = confirm("Are you over 18?");
+
+  if (over18) {
+    $('#age').show();
+  } else {
+    $('#under-18').show();
+  }
+});

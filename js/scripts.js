@@ -9,7 +9,7 @@ $(document).ready(function() {
   const over18 = confirm("Are you over 18?");
 
   if (over18) {
-    $('#age').show();
+    $('#add').show();
   } else {
     $('#under-18').show();
   }

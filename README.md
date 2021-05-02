@@ -12,11 +12,12 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+* This website will help determine what language you may want to use.
 
 ## Setup/Installation Requirements
 
 * Open browser and input information in each box for a result to pop up.
+* open, _https://github.com/taj-code/info_
 
 ## Known Bugs
 
@@ -24,8 +25,9 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+** MIT **
+* copyright(c) 2021
 
 ## Contact Information
 
-_{tajofisher4@gmail.com}_
+Tajo Fisher _tajofisher4@gmail.com_

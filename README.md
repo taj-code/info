@@ -1,8 +1,8 @@
-# _{Info Website}_
+# _Info Website_
 
-#### _{This website is where individuals will be able to input their information for people to read.}_
+#### _This website is where individuals will be able to input their information for people to find the code language they should use._
 
-#### By _**{Tajo Fisher}**_
+#### By _**Tajo Fisher**_
 
 ## Technologies Used
 
@@ -16,8 +16,9 @@
 
 ## Setup/Installation Requirements
 
-* Open browser and input information in each box for a result to pop up.
-* open, _https://github.com/taj-code/info_
+* Open the following URL.
+* _https://github.com/taj-code/info_
+* Once opened input information in each box.
 
 ## Known Bugs
 
@@ -25,7 +26,7 @@
 
 ## License
 
-** MIT **
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
 * copyright(c) 2021
 
 ## Contact Information
